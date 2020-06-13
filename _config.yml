@@ -1,6 +1,6 @@
 ## Settings
 title: pRoJEct-NeGYa
-owner: "DeerRIDER"
+owner: "TKVTV"
 url: "https://akiritsu.github.io"
 baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
@@ -14,7 +14,7 @@ email: "akiritsu@outlook.com"
 github: "takagotch/page62"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by DeerRIDER, All Rights Reserved"
+statement: "Designed by TkVTV, All Rights Reserved"
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
