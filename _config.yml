@@ -1,8 +1,8 @@
 ## Settings
-title: TKVTV
+title: pRoJEct-NeGYa
 owner: "DeerRIDER"
-url: "https://takagotch.github.io/page62/"
-baseurl: "/TKVTV"
+url: "https://akiritsu.github.io"
+baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
 description: ""
 markdown: kramdown
@@ -10,8 +10,8 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "takagotch@outlook.com"
-github: "takagotch/page62"
+email: "akiritsu@outlook.com"
+github: "akiritsu/pRoJEct-NeGYa"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
 statement: "Designed by DeerRIDER, All Rights Reserved"
@@ -19,5 +19,3 @@ statement: "Designed by DeerRIDER, All Rights Reserved"
 toc_level: 3
 # texts randomly displayed in background
 bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
-
-
