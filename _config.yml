@@ -1,8 +1,8 @@
 ## Settings
-title: pRoJEct-NeGYa
+title: takagotch
 owner: "DeerRIDER"
-url: "https://akiritsu.github.io"
-baseurl: "/pRoJEct-NeGYa"
+url: "https://takagotch.github.io/page62/"
+baseurl: "/takagotch"
 permalink: /:title/
 description: ""
 markdown: kramdown
@@ -19,3 +19,5 @@ statement: "Designed by DeerRIDER, All Rights Reserved"
 toc_level: 3
 # texts randomly displayed in background
 bgtext: "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌√"
+
+
