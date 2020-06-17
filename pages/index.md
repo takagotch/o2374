@@ -11,11 +11,11 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT D - HACKER-LIGHTING ACTIVATE HOMEPAGE
+# PROJECT D 最強伝説 - HACKER-LIGHTING ACTIVATE HOMEPAGE
 
 ##  Features
 * Highly customizable, content-oriented with The Matrix style
-* Eyesight-protection layout
+* アウトロー最強伝説
 * Decrypt and encrypt text (access token: 233): 
   * secret msg 1: 
   <p class="encrypted" id="/MZAf/PKx9jpw8/Jnp7XQQFki2ibGnArZP46W+keVThXquhWwFROEFnbY8eC57Tw==">Encrypted content!</p>
