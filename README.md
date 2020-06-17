@@ -1,4 +1,4 @@
-# PRoJEct-NeGYa
+# Project-D
 
 黑客风格的个人主页模板。
 
